@@ -10,11 +10,10 @@ import {
   SiTailwindcss,
   SiMongodb,
   SiExpress,
-  SiJava,
   SiMysql,
 } from "react-icons/si";
 import { GrCode } from "react-icons/gr";
-import { SiNextdotjs } from "react-icons/si";
+import { FaJava } from "react-icons/fa"; 
 import { FaReact } from "react-icons/fa";
 import { IoLogoNodejs } from "react-icons/io";
 
